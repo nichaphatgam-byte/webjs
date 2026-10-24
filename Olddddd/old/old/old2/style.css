@@ -1,0 +1,75 @@
+html{
+    background-color: rgb(0, 0, 0);
+    color: #fff;
+}
+header{
+    background-color: rgb(0, 0, 0);
+    padding: 5%;
+}
+.web-header{
+    background-color: rgb(0, 0, 0);
+    color: #fff;
+    margin-bottom: 2%;
+}
+.nav-link{
+    color: #fff;
+    text-decoration: none;
+}
+.bg-wave {
+    min-height: 400px;
+}
+
+.bg-wave-render {
+    top: 0;
+    left: 0;
+    object-fit: cover;
+    opacity: 0.3
+}
+h1{
+    color: #fff !important;
+}
+.lead{
+    color: #fff !important;
+}
+main {
+    background-color: rgb(194, 87, 87);
+    color: #fff;
+}
+.card-art {
+    border-radius: 0.3rem;
+    background-color: #f3786d;
+    color: #fff;
+    padding: 1.5%;
+}
+.text-floor {
+    font-size: 0.6rem;
+    color: #8b8b8b;
+}
+
+.text-volume {
+    font-size: 0.6rem;
+    color: #8b8b8b;
+}
+
+.text-change {
+    font-size: 1.1rem;
+    color: #fdff71;
+    font-weight: bold;
+}
+
+.g-2 {
+    padding-bottom: 2%;
+}
+html{
+    background-color: rgb(194, 87, 87);
+    color: #fff;
+}
+header{
+    background-color: rgb(194, 87, 87);
+    padding: 5%;
+}
+.web-header{
+    background-color: rgb(194, 87, 87);
+    color: #fff;
+    margin-bottom: 2%;
+}
